@@ -78,3 +78,6 @@ end
 
 # Simple form gem for form submission
 gem 'simple_form'
+
+# Database authentication
+gem 'devise'
