@@ -86,3 +86,8 @@ gem 'devise'
 # Image / video uploading
 gem 'carrierwave', '~> 2.0'
 
+# Secure configuration for Rails apps
+gem 'figaro'
+
+# Carrierwave / S3 integration
+gem 'fog-aws'
