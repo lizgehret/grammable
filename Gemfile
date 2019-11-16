@@ -82,3 +82,7 @@ gem 'simple_form'
 
 # Database authentication
 gem 'devise'
+
+# Image / video uploading
+gem 'carrierwave', '~> 2.0'
+
