@@ -84,7 +84,7 @@ gem 'simple_form'
 gem 'devise'
 
 # Image / video uploading
-gem 'carrierwave', '~> 2.0'
+gem 'carrierwave', '~> 2.1'
 
 # Secure configuration for Rails apps
 gem 'figaro'
